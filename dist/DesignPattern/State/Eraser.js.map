@@ -1,1 +1,0 @@
-{"version":3,"file":"Eraser.js","sourceRoot":"","sources":["../../../src/DesignPattern/State/Eraser.ts"],"names":[],"mappings":";;;AAEA,MAAa,MAAM;IACf,OAAO;QACH,OAAO,CAAC,GAAG,CAAC,cAAc,CAAC,CAAC;IAEhC,CAAC;IACD,SAAS;QACL,OAAO,CAAC,GAAG,CAAC,oBAAoB,CAAC,CAAC;IAEtC,CAAC;CAEJ;AAVD,wBAUC"}

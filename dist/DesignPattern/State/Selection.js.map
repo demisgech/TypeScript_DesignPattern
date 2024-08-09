@@ -1,1 +1,0 @@
-{"version":3,"file":"Selection.js","sourceRoot":"","sources":["../../../src/DesignPattern/State/Selection.ts"],"names":[],"mappings":";;;AAEA,MAAa,SAAS;IACb,OAAO;QACZ,OAAO,CAAC,GAAG,CAAC,iBAAiB,CAAC,CAAC;IACjC,CAAC;IACM,SAAS;QACd,OAAO,CAAC,GAAG,CAAC,0BAA0B,CAAC,CAAC;IAC1C,CAAC;CACF;AAPD,8BAOC"}
