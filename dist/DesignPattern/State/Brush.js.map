@@ -1,0 +1,1 @@
+{"version":3,"file":"Brush.js","sourceRoot":"","sources":["../../../src/DesignPattern/State/Brush.ts"],"names":[],"mappings":";;;AAEA,MAAa,KAAK;IACP,OAAO;QACV,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;IAC/B,CAAC;IACM,SAAS;QACZ,OAAO,CAAC,GAAG,CAAC,cAAc,CAAC,CAAC;IAEhC,CAAC;CAEJ;AATD,sBASC"}
