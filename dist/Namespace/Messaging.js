@@ -9,9 +9,9 @@ var Messaggging;
         constructor() {
         }
         chatter() {
-            console.log("Chatter");
+            console.log("Chatting...");
         }
     }
     Messaggging.Chat = Chat;
 })(Messaggging || (Messaggging = {}));
-//# sourceMappingURL=Mathematics.js.map
+//# sourceMappingURL=Messaging.js.map

@@ -6,11 +6,11 @@ const person = {
         console.log("walk");
     },
 };
-const point = {
+const _point = {
     x: 12,
     y: 11,
     calulateDistance: () => {
-        return point.x * point.y;
+        return _point.x * _point.y;
     }
 };
 function getUsers(user) {
@@ -35,12 +35,12 @@ function square(x) {
     return x * x;
 }
 console.log(square(12));
-class Shape {
+class Shapes {
     value;
     constructor(value) {
         this.value = value;
         console.log(value);
     }
 }
-const shape = new Shape(12);
+const shape = new Shapes(12);
 //# sourceMappingURL=index.js.map

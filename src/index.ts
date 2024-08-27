@@ -13,17 +13,17 @@ const person:Person = {
 }
 // person.walk();
 
-type Point = {
+type point = {
     x:number,
     y:number,
     calulateDistance:() => number
 };
 
-const point:Point = {
+const _point:point = {
     x:12,
     y:11,
     calulateDistance:() =>{
-     return point.x * point.y;
+     return _point.x * _point.y;
     }
 };
 
@@ -60,10 +60,10 @@ function square(x:number) : number {
 console.log(square(12));
 
 
-class Shape<T> {
+class Shapes<T> {
     constructor(public value: T) {
         console.log(value);
     }
 }
 
-const shape = new Shape<number>(12);
+const shape = new Shapes<number>(12);
