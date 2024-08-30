@@ -1,7 +1,6 @@
 
-
-export interface Iterator {
+export interface Iterator<T> {
     next():void;
-    current():string;
+    current():T;
     hasNext():boolean; 
 }

@@ -4,7 +4,7 @@ const ConfigManager_1 = require("./ConfigManager");
 class Main {
     static main() {
         const manager = ConfigManager_1.ConfigManager.instance;
-        manager.set("Name", "Demis");
+        manager.set("name", 'Demis');
         const other = ConfigManager_1.ConfigManager.instance;
         const name = other.get("name");
         console.log(name);
