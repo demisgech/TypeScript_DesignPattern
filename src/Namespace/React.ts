@@ -18,7 +18,9 @@ namespace React {
     export function useState<T>(initialState:T){
         let arr:T = initialState;
         let setState= ()=> {
+            console.log(arr);
 
         }
+        setState();
     }
 }
